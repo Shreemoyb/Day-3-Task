@@ -1,0 +1,14 @@
+{
+    "Name": "Shreemoy Banerjee",
+    "DOB": "29-December-1991",
+    "Education": ["B.Tech-EEE", "MBA- IT & SYSTEMS"],
+    "CLASS X": ["69 percentage-ICSE Board"],
+    "CLASS XII": ["69 percentage-ISC Board"],
+    "Overall Experience" : "8 years",
+    " Tech Skills" : ["Microsoft Office", "Advanced Excel", "Matlab", "C", "C++", " Node-JS", "HTML", "CSS", "RPA"],
+    "Current Organization" : " Startek India Pvt. Ltd.",
+    "Previous Organisations" : [ {"Previous Company":"Wipro Ltd."}, 
+    {"Second Company":"Intelenet Global Services Pvt.Ltd."}, 
+    {"First Company":"Pecon Software Ltd."} ],
+
+}
